@@ -100,7 +100,7 @@ const CHARS: &[char] = &[
     'm', 'n', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',
 ];
 
-pub const RENDEZVOUS_SERVERS: &[&str] = &["www.songsenggmt.com:51116"];
+pub const RENDEZVOUS_SERVERS: &[&str] = &["www.songsenggmt.com"];
 pub const RS_PUB_KEY: &str = "j+jwjC3cfOrAHXVSHJg7zk0hqmINSUPRgB73q5daCYE=";
 
 pub const RENDEZVOUS_PORT: i32 = 51116;
