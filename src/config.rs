@@ -108,8 +108,8 @@ const CHARS: &[char] = &[
     'm', 'n', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',
 ];
 
-pub const RENDEZVOUS_SERVERS: &[&str] = &["www.songsenggmt.com"];
-pub const RS_PUB_KEY: &str = "j+jwjC3cfOrAHXVSHJg7zk0hqmINSUPRgB73q5daCYE=";
+pub const RENDEZVOUS_SERVERS: &[&str] = &["180.169.67.214"];
+pub const RS_PUB_KEY: &str = "+6sOyu8RNTZqq2bAmlaHnIFp9uyXPDvXLPU+GLwgMLs=";
 
 pub const RENDEZVOUS_PORT: i32 = 51116;
 pub const RELAY_PORT: i32 = 51117;
